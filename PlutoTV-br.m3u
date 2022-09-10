@@ -1,98 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-############################### ABERTOS #############################################
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="TV Aberta", AniTV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="TV Aberta",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvebahia" tvg-logo="https://imgur.com/So0jA9Q.png" group-title="TV Aberta",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="TV Aberta",TV Cultura
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV Aberta",SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="TV Aberta",Rede TV!
-http://api.magiaiptv.com/live/800364/107211/m3_NF1sEbwngvMJk7fW9CRyOxQd_720p
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="TV Aberta",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/K2nTYls.png" group-title="TV Aberta",BR Super TV
-http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
-
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="TV Aberta",TV Bahia
-http://api.magiaiptv.com/live/800364/107211/m1_G8b2xaTYqU1IEKt1If_720p
-
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV Aberta",Globo RJ
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-
-#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://imgur.com/HpyVVvg.png" group-title="TV Aberta",Record TV
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/xkmeoGO.png" group-title="TV Aberta",Record News ES
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://imgur.com/gFXEXFl.png" group-title="TV Aberta",Canção Nova
-http://api.magiaiptv.com/live/800364/107211/m2_Rn60mQpoOKyFd4vzs2CDEYT5_720p
-
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV Aberta",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://imgur.com/xbSyJZI.png" group-title="TV Aberta",Rede Vida
-http://api.magiaiptv.com/live/800364/107211/m4_U41xTcfkKEg5wSdFHCzXamLv_720p
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/edNpGyX.png" group-title="TV Aberta",TV Brasil
-http://api.magiaiptv.com/live/800364/107211/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
- 
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/zYMcdDO.png" group-title="TV Aberta",Canal Futura
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/DCeA5Jt.png" group-title="Jornalismo",Band News
-http://cdn.connectbr.com.br/BandNews/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Jornalismo",CNN Brasil
-http://api.magiaiptv.com/live/800364/107211/m2_1KBrVeObLx7wqyN8g_720p_2M
-
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://imgur.com/zxrZAHQ.png" group-title="Jornalismo",Jovem Pan News
-#EXTVLCOPT:http-referrer=Mozilla/5.0%20(iPhone;%20CPU%20iPhone%20OS%2014_8%20like%20Mac%20OS%20X)%20AppleWebKit/605.1.15%20(KHTML,%20like%20Gecko)%20Mobile/15E148
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-
-############################### RADIOS ################################################
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vSrj9rK.png" group-title="RÁDIOS", CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/f57YzJC.png" group-title="RÁDIOS", CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RÁDIOS", Atlãndida FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RÁDIOS", Beat 98
-http://streaming13.hstbr.net:8072/live
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RÁDIOS", Antena 1 RJ
-http://a1rj.streams.com.br:7801/sm
-
-#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="RÁDIOS", Difusora Acreana
-http://midia.ac.gov.br/difusora
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="RÁDIOS", Aldeia FM 96.9 Rio Branco
-http://midia.ac.gov.br/aldeiafm
-
-############################### WEB TV ######################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="WebTV",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="5fa97a8a75cc210007c9041d" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Guia de Canais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Pluto TV Cine Sucessos
@@ -271,3 +178,95 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b219eed88ef00007403c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="PLUTO TV BRASIL",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+############################### ABERTOS #############################################
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="TV Aberta", AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="TV Aberta",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-id="Tvebahia" tvg-logo="https://imgur.com/So0jA9Q.png" group-title="TV Aberta",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="TV Aberta",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV Aberta",SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="TV Aberta",Rede TV!
+http://api.magiaiptv.com/live/800364/107211/m3_NF1sEbwngvMJk7fW9CRyOxQd_720p
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="TV Aberta",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/K2nTYls.png" group-title="TV Aberta",BR Super TV
+http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="TV Aberta",TV Bahia
+http://api.magiaiptv.com/live/800364/107211/m1_G8b2xaTYqU1IEKt1If_720p
+
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV Aberta",Globo RJ
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
+
+#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://imgur.com/HpyVVvg.png" group-title="TV Aberta",Record TV
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/xkmeoGO.png" group-title="TV Aberta",Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://imgur.com/gFXEXFl.png" group-title="TV Aberta",Canção Nova
+http://api.magiaiptv.com/live/800364/107211/m2_Rn60mQpoOKyFd4vzs2CDEYT5_720p
+
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV Aberta",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redevida.br" tvg-logo="https://imgur.com/xbSyJZI.png" group-title="TV Aberta",Rede Vida
+http://api.magiaiptv.com/live/800364/107211/m4_U41xTcfkKEg5wSdFHCzXamLv_720p
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/edNpGyX.png" group-title="TV Aberta",TV Brasil
+http://api.magiaiptv.com/live/800364/107211/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
+ 
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/zYMcdDO.png" group-title="TV Aberta",Canal Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/DCeA5Jt.png" group-title="Jornalismo",Band News
+http://cdn.connectbr.com.br/BandNews/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Jornalismo",CNN Brasil
+http://api.magiaiptv.com/live/800364/107211/m2_1KBrVeObLx7wqyN8g_720p_2M
+
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://imgur.com/zxrZAHQ.png" group-title="Jornalismo",Jovem Pan News
+#EXTVLCOPT:http-referrer=Mozilla/5.0%20(iPhone;%20CPU%20iPhone%20OS%2014_8%20like%20Mac%20OS%20X)%20AppleWebKit/605.1.15%20(KHTML,%20like%20Gecko)%20Mobile/15E148
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+############################### RADIOS ################################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vSrj9rK.png" group-title="RÁDIOS", CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/f57YzJC.png" group-title="RÁDIOS", CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RÁDIOS", Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RÁDIOS", Beat 98
+http://streaming13.hstbr.net:8072/live
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RÁDIOS", Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="RÁDIOS", Difusora Acreana
+http://midia.ac.gov.br/difusora
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="RÁDIOS", Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm
+
+############################### WEB TV ######################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="WebTV",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
